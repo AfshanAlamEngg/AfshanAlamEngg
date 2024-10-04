@@ -21,19 +21,20 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hello! I'm Afshan Alam, a passionate software developer with expertise in JavaScript, React, Node.js, and databases. I love solving coding challenges on platforms like HackerRank, CodeChef, and HackerEarth.
+Hello! I'm Afshan Alam, a passionate software developer with expertise in Python, JavaScript, React, Node.js, and databases. I love solving coding challenges on platforms like HackerRank, CodeChef, Leetcode and HackerEarth.
 
-- 🌱 I’m currently learning advanced React and Node.js.
+- 🌱 I’m currently learning advanced Node.js.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about JavaScript, React, Node.js, and databases.
-- 📫 How to reach me: your.email@example.com
+- 💬 Ask me about Python, JavaScript, React, Node.js, and databases.
+- 📫 How to reach me: afshanalamengg@gmail.com
 
 ## Skills
 
-- **Languages:** JavaScript, Python, Java
-- **Frameworks:** React, Node.js, Express
-- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Languages:** JavaScript, Python, Java, Php, C++, C
+- **Frameworks:** React, Node.js, Express, Django, FastAPI, Laravel
+- **Databases:** MongoDB, MySQL, PostgreSQL, Oracle
 - **Tools:** Git, Docker, Jenkins
+- **CSS Frameworks:** Material UI, TailwindCSS, Bootstrap
 
 ## Projects
 
@@ -45,9 +46,10 @@ A brief description of your project. What does it do? What technologies did you 
 
 ## Coding Profiles
 
-- HackerRank
-- CodeChef
-- HackerEarth
+- [CodeChef](https://www.codechef.com/users/afshanalam)
+- [HackerEarth](https://www.hackerearth.com/@afshanalamengg/)
+- [Hackerrank](https://www.hackerrank.com/profile/afshanalamengg)
+- [LeetCode](https://leetcode.com/u/AfshanAlamEngg/)
 
 ## Blog Posts
 
@@ -77,7 +79,7 @@ A brief summary of your blog post. What topics do you cover?
 
 ## Contact Me
 
-Feel free to reach out to me via email or connect with me on LinkedIn.
+Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/afshan-alam/).
 
 ---
 
