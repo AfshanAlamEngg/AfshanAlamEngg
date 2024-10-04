@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **AfshanAlamEngg/AfshanAlamEngg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Welcome to My GitHub Profile!
 
-!Profile Banner
+![image](https://github.com/user-attachments/assets/dff7388a-2f49-41e8-8555-a7a56573a015)
 
 ## About Me
 
