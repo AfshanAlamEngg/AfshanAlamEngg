@@ -38,8 +38,11 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 
 ## Projects
 
-### Project 1: Awesome Project
-A brief description of your project. What does it do? What technologies did you use?
+### [Project 1: Job Verse ](https://github.com/AfshanAlamEngg/job-verse)
+- Project Description:
+  - This project is an all in one job searching and campus placement management solution.
+- What does it do:
+- What technologies did you use?
 
 ### Project 2: Another Cool Project
 A brief description of your project. What does it do? What technologies did you use?
