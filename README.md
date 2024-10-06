@@ -70,7 +70,8 @@ A brief summary of your blog post. What topics do you cover?
 
 ## Achievements
 
-- **Winner of XYZ Hackathon 2023**
+- **Recently served as a team lead in a hackathon named RAKATHON 2024 organised by Rakuten Company in Bangalore
+arranged via hackerearth.com, ended among the top 100 teams out of 6000 teams.**
 - **Top 10% in ABC Coding Challenge 2022**
 - **Published a research paper on Machine Learning in DEF Journal**
 
