@@ -40,12 +40,15 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 
 ### [Project 1: Job Verse ](https://github.com/AfshanAlamEngg/job-verse)
 - Project Description:
-  - This project is an all in one job searching and campus placement management solution.
-- What does it do:
-- What technologies did you use?
+  - It allows users to create profiles, upload resumes, search and apply for jobs, and communicate with employers.
+  - Build the entire project on my own as part of my coursework during MCA.
+- Technology used: Laravel, Tailwind CSS, Docker, Vite, Node JS.
 
-### Project 2: Another Cool Project
-A brief description of your project. What does it do? What technologies did you use?
+### [Project 2: My Result](https://github.com/AfshanAlamEngg/MyResult)
+- Project Description:
+  - The main idea for this project is to give a solution to the Teachers and Non-teaching Staff to manage and publish results of Students.
+  - Build the entire project on my own as part of my coursework during BCA.
+- Technology used: Php, MySQL, Bootstrap, Wampserver.
 
 ## Coding Profiles
 
