@@ -35,10 +35,11 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 - **Databases:** MongoDB, MySQL, PostgreSQL, Oracle
 - **Tools:** Git, Docker, Jenkins
 - **CSS Frameworks:** Material UI, TailwindCSS, Bootstrap
+- **DSA Language:** Python
 
 ## Projects
 
-### [Project 1: Job Verse ](https://github.com/AfshanAlamEngg/job-verse)
+### [Project 1: Job Verse](https://github.com/AfshanAlamEngg/job-verse)
 - Project Description:
   - It allows users to create profiles, upload resumes, search and apply for jobs, and communicate with employers.
   - Build the entire project on my own as part of my coursework during MCA.
@@ -49,6 +50,11 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
   - The main idea for this project is to give a solution to the Teachers and Non-teaching Staff to manage and publish results of Students.
   - Build the entire project on my own as part of my coursework during BCA.
 - Technology used: Php, MySQL, Bootstrap, Wampserver.
+  
+### [Project 3: My PG](Link)
+- Project Description:
+  - Some points
+- Technology used: Django, React, Material UI.
 
 ## Coding Profiles
 
