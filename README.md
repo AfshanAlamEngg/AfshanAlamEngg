@@ -65,24 +65,22 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 
 ## Blog Posts
 
-### How to Build a REST API with Node.js
+### Blog 1
 A brief summary of your blog post. What topics do you cover?
 
-### Understanding Asynchronous JavaScript
+### Blog 2
 A brief summary of your blog post. What topics do you cover?
 
 ## Certifications
 
-- **Certified Kubernetes Administrator (CKA)**
-- **AWS Certified Solutions Architect – Associate**
-- **Google Cloud Professional Data Engineer**
+- **Certificate 1**
+- **Certificate 2**
+- **Certificate 3**
 
 ## Achievements
 
 - **Recently served as a team lead in a hackathon named RAKATHON 2024 organised by Rakuten Company in Bangalore
 arranged via hackerearth.com, ended among the top 100 teams out of 6000 teams.**
-- **Top 10% in ABC Coding Challenge 2022**
-- **Published a research paper on Machine Learning in DEF Journal**
 
 ## Hobbies
 
