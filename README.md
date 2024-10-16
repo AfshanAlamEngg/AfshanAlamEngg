@@ -74,7 +74,7 @@ A brief summary of your blog post. What topics do you cover?
 ## Certifications
 
 - **Python (Basic) Certificate**  Issued By: hackerrank.com  [Link](https://www.hackerrank.com/certificates/iframe/577498a1210d)
-- **Certificate 2**
+- **Java (Basic) Certificate**  Issued By: hackerrank.com  [Link](https://www.hackerrank.com/certificates/iframe/e24e50c4c245)
 - **Certificate 3**
 
 ## Achievements
