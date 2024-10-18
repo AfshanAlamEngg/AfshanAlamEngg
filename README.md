@@ -84,9 +84,9 @@ arranged via hackerearth.com, ended among the top 100 teams out of 6000 teams.**
 
 ## Hobbies
 
-- **Reading:** I enjoy reading tech blogs and science fiction novels.
-- **Gaming:** I love playing strategy games and participating in e-sports tournaments.
-- **Traveling:** Exploring new places and cultures is my passion.
+- **Hobby 1:** I enjoy reading tech blogs and science fiction novels.
+- **Hobby 2:** I love playing strategy games and participating in e-sports tournaments.
+- **Hobby 3:** Exploring new places and cultures is my passion.
 
 ## Contact Me
 
