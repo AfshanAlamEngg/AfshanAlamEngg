@@ -90,11 +90,11 @@ arranged via hackerearth.com, ended among the top 100 teams out of 6000 teams.**
 
 ## Contact Me
 
-Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/afshan-alam/).
+Feel free to reach out to me via email or connect with me on [Gmail](mailto:afshanalamengg@gmail.com).
 
 ---
 
-!GitHub Stats
+<!-- !GitHub Stats
 
-!Top Languages
+!Top Languages -->
 
