@@ -28,6 +28,39 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 - 💬 Ask me about Python, JavaScript, React, Node.js, and databases.
 - 📫 How to reach me: afshanalamengg@gmail.com
 
+## Work Experience
+
+**Backend Developer Intern | Eco Evr Mobility**  
+*Bhubaneshwar, Odisha, India*  
+*Oct 2024 - Nov 2024* - 2 Months
+
+- Designed and implemented a microservices-based backend architecture for a Rider App, featuring services for authentication, job matching, rider management, real-time notifications, and analytics.
+- Utilized Node.js, PostgreSQL, Redis, MongoDB, and integrated with AWS/GCP for hosting and Github Actions for CI/CD.
+- Ensured real-time communication and geolocation with WebSocket, Socket.io, and Mapbox/OpenStreetMap.
+
+**Project Management Intern | Pehchaan The Street School**  
+*New Delhi, India*  
+*March 2024- May 2024* - 3 Months
+ 
+- Conducted in-depth research on organizations, identifying key opportunities and facilitating enhanced corporate social responsibility efforts, including initiatives to help underprivileged children.
+- Successfully executed cold emailing and cold calling campaigns, leading to impactful partnerships and the creation of 15 customized products for our organization using Document, Spreadsheet, Extensions, and AppScript.
+
+## Education 
+
+**Master of Computer Applications | Aligarh Muslim University** 
+*Aligarh, Uttar Pradesh, India* 
+*September 2022 - August 2024* 
+
+- Graduated with First Class Honors.
+- CGPA: 7.83/10
+
+**Bachelor of Science (Hons.) Computer Applications | Aligarh Muslim University** 
+*Aligarh, Uttar Pradesh, India* 
+*August 2019 - May 2022* 
+
+- Graduated with First Class Honors.
+- CGPA: 8.33/10
+
 ## Skills
 
 - **Languages:** JavaScript, Python, Java, Php, C++, C
