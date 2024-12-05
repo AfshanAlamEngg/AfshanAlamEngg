@@ -89,6 +89,11 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
   - Some points
 - Technology used: Django, React, Material UI.
 
+### [Project 4: CocoBlog](https://github.com/AfshanAlamEngg/CocoBlogs/)
+- Project Description:
+  - My personal bloggging project.
+- Technology used: Django, React, Bootstrap.
+
 ## Coding Profiles
 
 - [CodeChef](https://www.codechef.com/users/afshanalam)
