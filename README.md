@@ -114,6 +114,7 @@ A brief summary of your blog post. What topics do you cover?
 - **Python (Basic) Certificate**  Issued By: hackerrank.com  [Link](https://www.hackerrank.com/certificates/iframe/577498a1210d)
 - **Java (Basic) Certificate**  Issued By: hackerrank.com  [Link](https://www.hackerrank.com/certificates/iframe/e24e50c4c245)
 - **Postman API Fundamentals Student Expert** Issued By: postman.com [Link](https://api.badgr.io/public/assertions/kz3Y5Kz7Rqu688RJIY3vzQ?identity__email=afshanalamengg%40gmail.com)
+- **SQL (Basic) Certificate**  Issued By: hackerrank.com  [Link](https://www.hackerrank.com/certificates/iframe/38230774d861)
 
 ## Achievements
 
