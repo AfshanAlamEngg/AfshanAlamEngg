@@ -33,7 +33,7 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 
 **Backend Developer Intern | Eco Evr Mobility**  
 *Bhubaneshwar, Odisha, India*  
-*Oct 2024 - Feb 2025* - 4 Months
+*Oct 2024 - Jan 2025* - 4 Months
 
 - Designed and implemented a microservices-based backend architecture for a Rider App, featuring services for authentication, job matching, rider management, real-time notifications, and analytics.
 - Utilized Node.js, PostgreSQL, Redis, MongoDB, and integrated with AWS/GCP for hosting and Github Actions for CI/CD.
