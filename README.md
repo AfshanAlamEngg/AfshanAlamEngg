@@ -33,7 +33,7 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 
 **Backend Developer Intern | Eco Evr Mobility**  
 *Bhubaneshwar, Odisha, India*  
-*Oct 2024 - Jan 2025* - 4 Months
+*Oct 2024 - Feb 2025* - 4 Months
 
 - Designed and implemented a microservices-based backend architecture for a Rider App, featuring services for authentication, job matching, rider management, real-time notifications, and analytics.
 - Utilized Node.js, PostgreSQL, Redis, MongoDB, and integrated with AWS/GCP for hosting and Github Actions for CI/CD.
@@ -64,17 +64,19 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 
 ## Skills
 
-- **Languages:** JavaScript, Python, Java, Php, C++, C
-- **Frameworks:** React, Node.js, Express, Django, FastAPI, Laravel
-- **Databases:** MongoDB, MySQL, PostgreSQL, Oracle
-- **Tools:** Git, Docker, Jenkins
-- **CSS Frameworks:** Material UI, TailwindCSS, Bootstrap
-- **DSA Language:** Python
+- **Programming Languages:** JavaScript, TypeScript, Python, Java
+- **Web Technologies:** HTML, CSS, JavaScript, React, Material UI, Taiwind CSS, Node.js, Microservices
+- **Databases:** PostgreSQL, MySQL, Oracle, MongoDB
+- **Frameworks:** Express, Nest.JS, Next.JS, Django, FastAPI, Laravel
+- **Logging and Monitoring Skills:** Elasticsearch, Logstash, Kibana, Prometheus, Grafana.
+- **DevOps Skills:** Github Actions, Docker, Kubernetes, Git
+- **Cloud Computing Skills:** AWS(EC2, S3, VPC, RDS).
 
 ## Projects
 
 ### [Project 1: Job Verse](https://github.com/AfshanAlamEngg/job-verse)
 - Project Description:
+  - The aim of this project is to develop a platform that connects job seekers and recruiters.
   - It allows users to create profiles, upload resumes, search and apply for jobs, and communicate with employers.
   - Build the entire project on my own as part of my coursework during MCA.
 - Technology used: Laravel, Tailwind CSS, Docker, Vite, Node JS.
@@ -85,9 +87,11 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
   - Build the entire project on my own as part of my coursework during BCA.
 - Technology used: Php, MySQL, Bootstrap, Wampserver.
   
-### [Project 3: My PG](Link)
+### [Project 3: My PG Frontend](https://github.com/AfshanAlamEngg/mypg-frontend) | [My PG Backend](https://github.com/AfshanAlamEngg/mypg-backend)
 - Project Description:
-  - Some points
+  - The main idea is to simplify the management of rental accommodations.
+  - It serves both tenants and property owners, streamlining the entire process from room booking to administration.
+  - Build the entire project on my own as part of my coursework during MCA.
 - Technology used: Django, React, Material UI.
 
 ### [Project 4: CocoBlog](https://github.com/AfshanAlamEngg/CocoBlogs/)
