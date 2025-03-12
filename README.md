@@ -94,7 +94,7 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
   - Build the entire project on my own as part of my coursework during MCA.
 - Technology used: Django, React, Material UI.
 
-### [Project 4: CocoBlog](https://github.com/AfshanAlamEngg/CocoBlogs/)
+### [Project 4: CocoBlogs Frontend](https://github.com/AfshanAlamEngg/coco-blogs-frontend) | [CocoBlogs Backend](https://github.com/AfshanAlamEngg/coco-blogs-backend)
 - Project Description:
   - My personal bloggging project.
 - Technology used: Django, React, Bootstrap.
@@ -124,7 +124,7 @@ A brief summary of your blog post. What topics do you cover?
 ## Achievements
 
 - **Recently served as a team lead in a hackathon named RAKATHON 2024 organised by Rakuten Company in Bangalore
-arranged via hackerearth.com, ended among the top 100 teams out of 6000 teams.**
+arranged via hackerearth.com, ended among the top 100 teams out of 6300 teams.**
 
 ## Hobbies
 
