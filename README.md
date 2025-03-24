@@ -74,6 +74,12 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 
 ## Projects
 
+### [Project 0: Portfolio](https://github.com/AfshanAlamEngg/Afshan-Portfolio-Website)
+- Project Description:
+  - This is my portfolio website.
+  - Current version - 1.0
+- Technology used: HTML, CSS, JavaScript.
+  
 ### [Project 1: Job Verse](https://github.com/AfshanAlamEngg/job-verse)
 - Project Description:
   - The aim of this project is to develop a platform that connects job seekers and recruiters.
