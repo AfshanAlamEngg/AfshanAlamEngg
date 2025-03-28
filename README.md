@@ -75,7 +75,7 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 
 ## Projects
 
-### [Project 0: Portfolio](https://github.com/AfshanAlamEngg/Afshan-Portfolio-Website)
+### [Project 0: Portfolio](https://github.com/AfshanAlamEngg/Afshan-Portfolio-Website) | Click Me -> [Website](https://afshanalamengg.github.io/Afshan-Portfolio-Website/)
 - Project Description:
   - This is my portfolio website.
   - Current version - 1.0
