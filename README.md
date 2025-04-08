@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to My GitHub Profile!
+# Welcome to the Best GitHub Profile!
 
 ![image](https://github.com/user-attachments/assets/dff7388a-2f49-41e8-8555-a7a56573a015)
 
@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 Hello! I'm Afshan Alam, a passionate software developer with expertise in Python, JavaScript, React, Node.js, and databases. I love solving coding challenges on platforms like HackerRank, CodeChef, Leetcode and HackerEarth.
 
+- The Top 0.0000001 percent Software Engineer of  the World.
+- Don't waste my time and your time in talking about the number of year's of experience on my CV, instead talk what is the value of the output I bring to your problem, precisely and accurately in the least possible time.
 - 🌱 I’m currently learning advanced Node.js. [Click to Check Progress](https://github.com/AfshanAlamEngg/RESTful-Microservices-Using-Node.js-and-Express-Specialization.git)
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Python, JavaScript, React, Node.js, and databases.
