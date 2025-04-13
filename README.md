@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 Hello! I'm Afshan Alam, a passionate software developer with expertise in Python, JavaScript, React, Node.js, and databases. I love solving coding challenges on platforms like HackerRank, CodeChef, Leetcode and HackerEarth.
 
 - 🌱 I’m currently learning advanced Node.js. [Click to Check Progress](https://github.com/AfshanAlamEngg/RESTful-Microservices-Using-Node.js-and-Express-Specialization.git)
-- 👯 I’m looking to collaborate on open-source projects.
+- :handshake: I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Python, JavaScript, React, Node.js, and databases.
 - 📫 How to reach me: afshanalamengg@gmail.com
 - For the next five years: Best Backend Dev on which a team can rely upon.
