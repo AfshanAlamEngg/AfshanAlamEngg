@@ -142,6 +142,9 @@ arranged via hackerearth.com, ended among the top 100 teams out of 6300 teams.**
 - **Hobby 2:** I love playing strategy games and participating in e-sports tournaments.
 - **Hobby 3:** Exploring new places and cultures is my passion.
 
+## Github Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=AfshanAlamEngg&theme=dark)](https://git.io/streak-stats)
+
 ## Contact Me
 
 Feel free to reach out to me via email or connect with me on [Gmail](mailto:afshanalamengg@gmail.com).
