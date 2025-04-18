@@ -113,15 +113,15 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 - [Hackerrank](https://www.hackerrank.com/profile/afshanalamengg)
 - [LeetCode](https://leetcode.com/u/AfshanAlamEngg/)
 
-## Blog Posts
+<!--  ## Blog Posts -->
 
-### Blog 1
+<!--  ### Blog 1 -->
 <!-- A brief summary of your blog post. What topics do you cover? -->
-To be added soon
+<!--  To be added soon -->
 
-### Blog 2
+<!--  ### Blog 2 -->
 <!-- A brief summary of your blog post. What topics do you cover? -->
-To be added soon
+<!--  To be added soon -->
 
 
 ## Certifications
