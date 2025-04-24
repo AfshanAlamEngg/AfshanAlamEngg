@@ -134,7 +134,7 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 ## Achievements
 
 - **Recently served as a team lead in a hackathon named RAKATHON 2024 organised by Rakuten Company in Bangalore
-arranged via hackerearth.com, ended among the top 100 teams out of 6300 teams.*
+arranged via hackerearth.com, ended among the top 100 teams out of 6300 teams.**
 
 ## Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=AfshanAlamEngg&theme=dark)](https://git.io/streak-stats)
