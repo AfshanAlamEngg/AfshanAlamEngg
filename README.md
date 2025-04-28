@@ -26,6 +26,7 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 - 🌱 I’m currently learning advanced Node.js.
 - :handshake: I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Python, JavaScript, React, Node.js, and databases.
+- I primarily use Javascript for DSA and coding interviews rounds.
 - 📫 How to reach me: afshanalamengg@gmail.com
 - For the next five years: Best Backend Dev on which a team can rely upon.
 - Software Development King | DSA Champ
@@ -75,7 +76,7 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 - **DevOps Skills:** Github Actions, Docker, Kubernetes, Git
 - **Cloud Computing Skills:** AWS(EC2, S3, VPC, RDS).
 
-## Projects
+## Web 2.0 Related Projects
 
 ### [Project 0: Portfolio](https://github.com/AfshanAlamEngg/Afshan-Portfolio-Website) | Click Me -> [Website](https://afshanalamengg.github.io/Afshan-Portfolio-Website/)
 - Project Description:
@@ -108,6 +109,20 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
   - My personal bloggging project.
 - Technology used: Django, React, Bootstrap.
 
+## Web 3.0 Related Projects
+
+### [Project 1: Some Name]() 
+- Project Description:
+  - Line 1.
+- Technology used: Skill 1, Skill 2.
+  
+## Artificial Intelligence Related Projects
+
+### [Project 1: Some Name]() 
+- Project Description:
+  - Line 1.
+- Technology used: Skill 1, Skill 2.
+  
 ## Coding Profiles
 
 - [CodeChef](https://www.codechef.com/users/afshanalam)
