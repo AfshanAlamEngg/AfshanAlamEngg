@@ -115,10 +115,30 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 - Project Description:
   - Line 1.
 - Technology used: Skill 1, Skill 2.
+
+### [Project 2: Some Name]() 
+- Project Description:
+  - Line 1.
+- Technology used: Skill 1, Skill 2.
+
+### [Project 3: Some Name]() 
+- Project Description:
+  - Line 1.
+- Technology used: Skill 1, Skill 2.
   
 ## Artificial Intelligence Related Projects
 
 ### [Project 1: Some Name]() 
+- Project Description:
+  - Line 1.
+- Technology used: Skill 1, Skill 2.
+
+### [Project 2: Some Name]() 
+- Project Description:
+  - Line 1.
+- Technology used: Skill 1, Skill 2.
+
+### [Project 3: Some Name]() 
 - Project Description:
   - Line 1.
 - Technology used: Skill 1, Skill 2.
