@@ -141,7 +141,7 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 ### [Project 3: Some Name]() 
 - Project Description:
   - Line 1.
-- Technology used: Skill 1, Skill 2, Skill 3.
+- Technology used: Skill 1, Skill 2.
   
 ## Coding Profiles
 
