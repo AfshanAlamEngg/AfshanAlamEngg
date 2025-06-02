@@ -41,7 +41,7 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 
 - Designed and implemented a microservices-based backend architecture for a Rider App, featuring services for authentication, job matching, rider management, real-time notifications, and analytics.
 - Utilized Node.js, PostgreSQL, Redis, MongoDB, and integrated with AWS/GCP for hosting and Github Actions for CI/CD.
-- Ensured real-time communication and geolocation with WebSocket, Socket.io, and Mapbox/OpenStreetMap.
+- Ensured real-time communication with WebSocket, Socket.io and geolocation with Mapbox/OpenStreetMap.
 
 **Project Management Intern | Pehchaan The Street School**  
 *New Delhi, India*  
