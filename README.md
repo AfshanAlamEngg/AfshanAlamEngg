@@ -109,7 +109,7 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
   - My personal bloggging project.
 - Technology used: Django, React, Bootstrap.
 
-## Web 3.0 Related Projects
+## Web 3.0 | Blockchain Related Projects
 
 ### [Project 1: Some Name]() 
 - Project Description:
