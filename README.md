@@ -31,6 +31,7 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 - For the next five years: Best Backend Dev on which a team can rely upon.
 - Software Development King | DSA Champ
 - Working in fields related to web 2.0, web 3.0 and artficial intelligence through various side courses and specializations.
+- My area of interest includes but not limited to Quantum Computing, Chipless RFID.
 - Also building tons of projects on a daily basis, but only few are listed below.
   
 ## Work Experience
