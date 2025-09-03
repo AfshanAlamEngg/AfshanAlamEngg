@@ -34,7 +34,7 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
 - My area of interest includes but not limited to Quantum Computing, Chipless RFID.
 - Also building tons of projects on a daily basis, but only few are listed below.
 
-- ![](https://komarev.com/ghpvc/?username=AfshanAlamEngg)
+![](https://komarev.com/ghpvc/?username=AfshanAlamEngg)
   
 ## Work Experience
 
