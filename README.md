@@ -38,6 +38,14 @@ Hello! I'm Afshan Alam, a passionate software developer with expertise in Python
   
 ## Work Experience
 
+**Senior Software Trainee | Bharat Electronics Limited**  
+*Bengaluru, Karnataka, India*  
+*Oct 2025 - Present* - 1 Year
+
+- Delivered 40+ end-to-end modules (UI, API, DB) across 8 projects using React, Express, FastAPI, PostgreSQL improving overall project efficiency by 25%
+- Led a team of 5 developers, achieving 100% on-time delivery of milestones and reducing development cycle time by 20%
+- Collaborated with Siemens on an Industry 4.0 project for a defense PSU client, enabling real-time data integration and boosting operational throughput by 30%..
+
 **Backend Developer Intern | Eco Evr Mobility**  
 *Bhubaneshwar, Odisha, India*  
 *Oct 2024 - Feb 2025* - 4 Months
